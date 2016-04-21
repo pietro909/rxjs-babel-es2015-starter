@@ -12,7 +12,7 @@ To get started:
 git clone git@github.com:dabit3/rxjs-babel-es2015-starter.git
 ```
 
-2 Install npm dependencies:
+2 Install npm dependencies
 
 ```
 npm install
