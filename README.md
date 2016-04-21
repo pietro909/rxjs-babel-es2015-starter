@@ -9,7 +9,7 @@ To get started:
 1. Clone repo
 
 ```
-git clone
+git clone git@github.com:dabit3/rxjs-babel-es2015-starter.git
 ```
 
 2. Install npm dependencies:
