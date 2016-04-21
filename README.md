@@ -6,19 +6,19 @@ App.js is the application entry point.
 
 To get started:
 
-1. Clone repo
+1 Clone repo
 
 ```
 git clone git@github.com:dabit3/rxjs-babel-es2015-starter.git
 ```
 
-2. Install npm dependencies:
+2 Install npm dependencies:
 
 ```
 npm install
 ```
 
-3. Start app
+3 Start app
 
 ```
 npm start
